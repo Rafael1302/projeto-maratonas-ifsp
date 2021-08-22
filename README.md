@@ -1,1 +1,1 @@
-# maratonaifsp
+Este projeto foi desenvolvido para ser uma extensão do site do IFSP Campinas.
